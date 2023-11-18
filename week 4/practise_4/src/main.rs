@@ -13,5 +13,5 @@ fn main() {
     println!("The length my fullname is: {}",fullname.len());
     println!("I am a student of {} Department",department );
     println!("{}",school);
-    println!("{}",uni );
+    println!("{}",uni )
 }

@@ -25,5 +25,5 @@ fn main() {
     let speed_kmph = distance * 1.60934 / time;
 
     // Display the result
-    println!("The speed of the car is {:.2} km/hr", speed_kmph);
+    println!("The speed of the car is {:.3} km/hr", speed_kmph);
 }
