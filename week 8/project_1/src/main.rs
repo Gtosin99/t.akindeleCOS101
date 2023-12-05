@@ -75,3 +75,21 @@ fn main() {
         println!("You hold the position SES \n You are an {:?}", f[3]);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
