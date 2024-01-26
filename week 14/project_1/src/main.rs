@@ -11,7 +11,7 @@ enum UserRole {
 
 fn read_database_structure(role: &UserRole) {
     let file_name = match role {
-        UserRole::Administrator => "database_tb.sql",
+        UserRole::Administrator => "globacom_dbase.sql",
         UserRole::ProjectManager => "project_tb.sql",
         UserRole::Employee => "staff_tb.sql",
         UserRole::Customer => "customer_table_tb.sql",
